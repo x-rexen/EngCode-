@@ -13,6 +13,11 @@
   font-weight: bold;
 }
 
+.logoimage{
+  width: 50%;
+  display: block;
+}
+
 .nav-links {
   list-style: none;
   display: flex;
