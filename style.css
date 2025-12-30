@@ -14,7 +14,9 @@
 }
 
 .logoimage{
+  max-weight: 60px;
   width: 50%;
+  height: 40px;
   display: block;
 }
 
