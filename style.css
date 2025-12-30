@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 30px;
+  padding: 15px 50px;
   background: #222;
   color: white;
   font-family: Arial, sans-serif;
@@ -14,7 +14,7 @@
 }
 
 .logoimage{
-  width:100px;
+  width: 100px;
   height: auto;
   display: block;
 }
